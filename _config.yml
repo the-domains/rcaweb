@@ -1,7 +1,7 @@
 name: rcaweb
 favicon: null
-layout_spectrum: 0.15649845893494785
-typography_spectrum: 0.8313685853499919
+layout_spectrum: 0.87816
+typography_spectrum: 0.50318
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.48242173972539604
+    - '#0a0a0a'
+    - '#669999'
+    - '#333333'
+    - '#c5c6c8'
+    - '#4c7171'
+  brandStrength: 1
   lightness: 0.24790312303230166
   saturation: 0.9068181847687811
   rhythmicContrast: 0.2918487952556461
